@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Gtell
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * gtell <message>
+
+ Gtell sends a message to all of the characters in your group, wherever they
+are, even if they are sleeping or stunned or dying. The semicolon is a synonym
+for gtell. 
+
+ See also Say, Tell and Reply.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

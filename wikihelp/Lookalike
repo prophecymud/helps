@@ -1,0 +1,15 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Lookalike
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * lookalike <argument>
+
+ This will search the pfile names that match the argument.  This command will
+use the * and ? wildcards.  Be warned that typing just 'lookalike *' will
+disconnect you as it will try to display the thousands of pfiles we have.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

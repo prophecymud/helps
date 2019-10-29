@@ -1,0 +1,33 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Auto
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Prophecy uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows: 
+
+autolist:
+	 list all automatic actions 
+autoloot:
+	 take all equipment from dead mobiles  
+autogold:
+	 take all gold from dead mobiles 
+autosac:
+	 sacrifice dead monsters (if autoloot on, only empty) 
+autoexit:
+	 display room exits upon entering a room 
+autosplit:
+	 split up spoils from combat among your group members 
+autoassist:
+	 makes you help group members in combat 
+autodamage:
+	 shows the damage of a fight 
+nosummon:
+	 toggles whether you can be summoned 
+nofollow:
+	 toggles whether you can be followed 
+
+ Typing a command sets the action. Typing it again removes it.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

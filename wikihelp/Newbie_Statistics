@@ -1,0 +1,31 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Newbie_Statistics
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`` Statistics (or stats) are your characters physical attributes. They consist
+of strength (str), dexterity (dex), wisdom (wis), intelligence (int) and
+constitution (con) and are quite an important part of the game.  
+
+ Every race/class combination has a different set of maximum statistics and you
+can view yours by using the "`&stats`7" command. This will display something
+like the following: `` 
+
+ `7-`#Str`7: `^17`7[`$21`7] `#Int`7: `^19`7[`$23`7] `#Wis`7: `^19`7[`$23`7]
+`#Dex`7: `^18`7[`$23`7] `#Con`7: `^19`7[`$22`7]`` `` 
+
+ The first number, before the brackets, is the raw statistic, the number in
+between the brackets is what the number is after taking your magical ability
+enhancements into account, as some equipment (and some spells as well) will
+enhance your statistics. The number in between the brackets is the number you
+will have to pay most attention to as you want this number to be as high as
+possible. If you want to know how high the number can go, use the
+"`&maxstats``" command. If you compare the two, you can decide which equipment
+to wear to increase your characters attributes. 
+
+ `` For more information, please read "`&help stats``" and "`&help Strength
+intelligence wisdom dexterity constitution``" for a list of some of the effects
+of certain attributes. ``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

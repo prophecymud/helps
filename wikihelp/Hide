@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Hide
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * hide
+
+ Hide lets a character hide unseen in a room, while remaining stationary.
+Performing most "active" actions will stop the effect, as will the visible
+command. Players and mobiles affected by the detect hidden spell will also be
+able to see anyone hiding.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

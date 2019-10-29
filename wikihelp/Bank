@@ -1,0 +1,22 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Bank
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+bank deposit <amount>:
+	deposit some gold in your account 
+bank withdraw <amount>:
+	withdraw some gold from your account 
+bank balance:
+	check your balance 
+bank transfer <amount> <victim>:
+	transfer some gold to someone else 
+
+ These commands are for managing your bank account and may only be done at a
+banker. The most commonly used banker is Nathalie, who is located (from Recall)
+2 south, 3 west, 2 north, 2 east and 1 south.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

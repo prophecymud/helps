@@ -1,0 +1,48 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Prompt
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * prompt
+ * prompt all
+ * prompt <string>
+
+ PROMPT with out an argument will turn your prompt on or off. 
+
+ PROMPT ALL will give you the standard "<hits mana moves>" prompt. 
+
+ PROMPT <%*> where the %* are the various variables you may set yourself. 
+
+ * %h :  Display your current hitpoints
+ * %H :  Display your maximum hitpoints
+ * %m :  Display your current mana
+ * %M :  Display your maximum mana
+ * %v :  Display your current moves
+ * %V :  Display your maximum moves
+ * %x :  Display your current experience
+ * %X :  Display experience to next level
+ * %g :  Display your gold held
+ * %s :  Display silver carried
+ * %a :  Display your alignment
+ * %r :  Display the room name you are in
+ * %e :  Display the exits from the room in NESWDU style
+ * %c :  Display a carriage return (useful, nay, vital, for multi-line prompts)
+ * %R :  Display the vnum you are in `&(`!IMMORTAL ONLY`&)``
+ * %z :  Display the area name you are in `&(`!IMMORTAL ONLY`&)``
+ * %W :  Display if you are Wizi `&(`!IMMORTAL ONLY`&)``
+ * %N :  Display if you are Incog `&(`!IMMORTAL ONLY`&)``
+ * %i :  Display when you are `4invisible``
+ * %q :  Display when you are `1hiding``
+ * %n :  Display when you are `!sneaking``
+ * %t :  Display your violence timer``
+ * %f :  Display your violence timer (shortened form)``
+ * %G :  Display your fight prompt``
+ * %T :  Display the time until your next aquest``
+ * %Q :  Display your aquestpoints``
+
+ Example:  "prompt <%hhp %mm %vmv>" will set your prompt to "<10hp 100m 100mv>"
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

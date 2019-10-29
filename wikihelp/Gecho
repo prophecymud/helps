@@ -1,0 +1,14 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Gecho
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * gecho <message>
+
+ Gecho sends a message to everyone on the MUD.	Any higher-level god will see a
+prompt in front of your message, informing him or her that it is an echo.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

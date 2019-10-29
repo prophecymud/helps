@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist5
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Characters   You can flag characters with spells like a perm spell. 
+
+   blind	    invis   detect evil      detect invis   detect magic    
+detect good   detect hidden    sanctuary    faerie fire      infrared vision  
+curse		 poison   protection good  protection evil   sneak	     
+hide   sleep		charm	flying		 pass door   haste	     
+calm   plague		weaken	 dark-vision	  berserk   regeneration    
+slow 
+
+   Command: flag char (char) aff + (spell)   Example: flag char belgarion aff +
+blind	Belgarion appears to be blinded.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

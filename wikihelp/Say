@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Say
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * say <message>   
+
+ Say sends a message to all awake players in your room.  The single quote
+'`8<nowiki>'</nowiki>``' is a synonym for say. 
+
+ See also Tell, Reply, and Gtell.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

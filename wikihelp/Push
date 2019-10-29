@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Push
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * push <target> direction
+
+ Push moves the intended target in the direction you specify.  It is dependent
+upon your strength.  If you are not stronger than your target, you will not be
+able to push the target.  If you are attempting to push a mob, it will attack
+you if it is of higher level.  You may only push the target if they are
+standing.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

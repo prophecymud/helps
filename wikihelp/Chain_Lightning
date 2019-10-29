@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Chain_Lightning
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'chain lightning' <target>
+
+ Chain lightning is a deadly spell, producing a powerful bolt of lightning that
+arcs from target to target in the room, until its force is fully expended.
+Allies of the caster may be hit by this spell if they are members  of a clan,
+while the caster himself will not be struck unless no other viable target
+remains. Chain lightning is most effective when used on groups of creatures.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

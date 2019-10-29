@@ -1,0 +1,11 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Vampiric
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Weapons with the vampiric flag will cause some hits to steal a small amount of
+hp from the target, and add it to your current amount. Each time this occurs,
+your alignment will decrease by 1, a gradual shift towards evil.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

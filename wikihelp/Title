@@ -1,0 +1,21 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Title
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * Title <string>
+
+ Sets your title to a given string. 
+
+ The game supplies a title when your character is created and when you advance
+a level.  You can use TITLE to set your title to something else. Titles may
+only be changed after level 50.  
+
+ Title rules are similiar to those of channel rules. No non-english or swearing
+in titles. If this occurs after being warned 1 time, you will lose your
+privledge to title yourself for amount # of time.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

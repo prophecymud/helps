@@ -1,0 +1,25 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Sockets
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * sockets
+ * sockets <name> 
+
+ SOCKETS reports all of the visible users connected to the server, including 
+users in the process of logging in.  The two numbers inside brackets are the 
+channel number and the 'connected' state.  The 'connected' states are listed in
+ merc.h: 0 is CON_PLAYING; non-zero values are various states of logging in. 
+
+ The optional name argument shows the site of a player, or optional can be used
+to identify switched gods (i.e. socket orc shows the name of anyone switched
+into an orc). 
+
+ If two character connections are red and the address is the same, it is often
+the same player (multiplayer) or a networks. Please check with someone or do
+some heavy duty nancy drew work before prosecuting anyone.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

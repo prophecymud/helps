@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Multiplay
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Multiplay is when you have more than one character on the mud at the same time.
+This can occur when you have two characters connected or disconnected at the
+same time. 
+
+ An example of multiplaying would be to log on Character A, then disconnect
+Character A and log on Character B while Character A is still on the mud. (Even
+though Character A is disconnected it is still considered as multiplaying) 
+
+ Multiplaying will be punished by deletion of the highest level character, and
+the lower level character will be slain, with all equipment eaten. See also
+<help network>
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

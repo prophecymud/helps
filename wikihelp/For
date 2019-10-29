@@ -1,0 +1,25 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : For
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * for [all/gods/mortals/mobs/quest/everywhere] [command]
+
+ Essentially, a "super-at" command. It executes the command supplied at each
+person specified (everywhere will do that for *every* room, and should *not* be
+used). 
+
+ The command can contain the # character, which will be replaced with the name
+of the person for that iteration. Note that if command doesn't contain a #,
+then people will be grouped by room (So, if there are 10 mortals, all in one
+room, "for all who" will iterate once, but "for all poke #" will iterate 10
+times). 
+
+ For repeat actions (e.g. clone/loading objects for a quest), then "for all at
+[vnum] [command]" is polite to avoid wiznet spam. The at command is to avoid
+spamming people receiving the room echo for things like clone/load
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

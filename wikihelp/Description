@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Description
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * description
+ * description + <string>
+ * description - 
+
+ Without an argument, shows your long description (what people see when they
+look at you). Otherwise, adds (if using "description +") or removes
+("description -") a line from that description.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

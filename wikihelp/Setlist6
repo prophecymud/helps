@@ -1,0 +1,15 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist6
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+V4 is weapons flags. 
+
+     0 nothing	      1 flaming     2 frost	     4 vampiric     8 sharp    
+    16 vorpal	 32 two-handed	  64 shocking	128 poison 
+
+   Command: set obj <obj> v4 <number>	Example: set obj holy v4 20   The Holy
+Avenger is vampiric and vorpal.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,15 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Cure_Disease
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'cure disease' <target>
+
+ This spell is used to cure the symptoms of plague in the target.  If no target
+is given, the spell will automatically be cast upon the person casting the
+spell.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

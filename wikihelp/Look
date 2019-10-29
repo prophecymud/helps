@@ -1,0 +1,24 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Look
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * look
+ * look    <object>
+ * look    <character>
+ * look    <direction>
+ * look    <keyword>
+ * look in <container>
+ * look in <corpse>
+ * look in <portal>
+
+ Look is a command that, as it suggests, looks at or in something or someone.
+It can be used to look at objects, or people/creatures, and to look in
+directions, to see the room and contents that lie in that direction. It can
+also be used to look in something, be that a container, a corpse, or a portal
+to see the destination.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

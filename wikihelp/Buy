@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Buy
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * buy <item>
+ * buy <number>*<item>
+
+ This is the command you use in a shop to purchase items.  You can buy a single
+item with the first syntax example.  To purchase multiples of the same item,
+such as 10 recall scrolls, you would type "buy 10*recall". 
+
+ See also List, Sell, and Value.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

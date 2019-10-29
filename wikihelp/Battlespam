@@ -1,0 +1,15 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Battlespam
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * battlespam
+
+ Switching this command on will cause it to filter out most unimportant combat
+information during fights, such as missed strikes, parried attacks and dodged
+blows. You can turn that information back on by typing it again.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

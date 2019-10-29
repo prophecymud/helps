@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Snoop
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * snoop <character>
+
+ Snoop shows you a copy of all the input and output going to a character. The
+character must have an open channel.  You may snoop more than one character at
+a time. Try to respect privacy. 
+
+ Snoop yourself to cancel all outstanding snoops. 
+
+ See also Log.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

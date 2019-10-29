@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist2
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Weapons V1 and V2 determine the avg dam. 
+
+   Command: set obj <obj> v? <number>	Example: set obj holy v1 5	     
+set obj holy v2 6 
+
+  The holy avenger has dam 5d6 which means avg dam 18	If the total damage is
+over 1200 it causes a bug, so please   don't make any weapons more than avg dam
+around 100.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

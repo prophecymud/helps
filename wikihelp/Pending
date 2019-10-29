@@ -1,0 +1,70 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Pending
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The '`#pending``' command will show you the options available. To take each one
+in turn: 
+
+'`#pending add``' :
+	adds a new task to the list. You should include a title for the task as
+an argument to the command enclosed in quotation marks. eg pending add 'Process
+so-and-so's builder app' 
+
+'`#pending list``' :
+	shows you the list of tasks. You see:  An id number so that you can
+refer to the task with the other commands. An optional '`#*``' if the task has
+a further description associated with it. The number of days since the task was
+added to the list. The task title. The name of the immortal who has taken on
+the task. 
+
+'`#pending list new``' :
+	shows you new or changed tasks since you last looked at the list. 
+
+'`#pending list <name>``' :
+	shows you all tasks assigned to <name>. 
+
+'`#pending list unclaimed``' :
+	shows you all unclaimed tasks. 
+
+'`#pending done``' :
+	shows you recently completed tasks. The fields shown are as for the
+'pending list' command, but also shows each task's status since removed tasks
+will also show up here. 
+
+'`#pending done new``', '`#pending done <name>``', and '`#pending done
+removed``' :
+	correspond to the same or similar options to the 'pending list'
+command. 
+
+'`#pending show <id>``' or '`#pending info <id>``' :
+	show you the full information about a task. This includes who set it
+and and a description. (Tasks with further descriptions appear with '`#*``'
+next to them on 'pending list'). 
+
+'`#pending claim <id>``' :
+	claims a task on the list as yours. This is just advisory, you can
+claim a task that is already assigned to someone else. It is also possible to
+claim removed tasks. 
+
+'`#pending unclaim <id>``' :
+	Unclaims a task that is listed as yours. 
+
+'`#pending complete <id>``' :
+	Moves a task assigned to to you to the completed board. 
+
+'`#pending remove <id>``' :
+	Remove a task that is assigned to you but do not mark it as complete.
+This can be used for impossible or otherwise inappropriate tasks. It is
+possible for removed tasks to be claimed by someone else. 
+
+'`#pending edit <id>``' :
+	Optionally takes a new task title as an argument enclosed in quotation
+marks. Then you will find yourself in the append mode editor to type a full
+description for the task. 
+
+ When you log on you will automatically do a 'pending list new', just as you do
+an 'unread'. I hope this is not too intrusive.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Heat_Metal
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'heat metal' <target>
+
+ Heat metal is a powerful clerical attack spell, with effects that vary 
+according to the armor of the victim.  It heats up the metal equipment (assumed
+to be all weapons and armor at this point in time) on the target, causing him
+or her to drop them if possible, taking serious burns in the process (possibly
+fatal if the equipment is too heavy to remove easily). This spell does no
+damage to creatures who are immune to fire.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

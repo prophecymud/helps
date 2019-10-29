@@ -1,0 +1,21 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Ban
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * ban <site> <newbies|all|permit>
+ * ban
+
+ Ban <site> prohibits players from that site from logging in.  Ban with no
+arguments lists the banned sites.  It us undone with Allow. 
+
+ A site may have all players, new players, or non-permitted players (set by
+editing the player file) banned, by changing the argument after the site. A *
+may be used to ban either by suffix (*.edu), prefix (labmac*), or  content
+(*andrews*), but be careful not to accidentally lock out too many sites with a
+wildcard.  Bans do not save unless the permban command is used.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

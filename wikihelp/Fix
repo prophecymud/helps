@@ -1,0 +1,35 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Fix
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * fix [objectname]
+
+ Fix is the command for compacting item stats.	For example, turning multiple
+instances of "Affects hp by x" into a single affect.  It also imposes maximum
+limits, as described in "help qlist" at time of writing (-30 ac, -10 saves, 3
+to each stat, 10 hit 10 dam, 120 hp, 120 mana, 120 move).  With regard to
+spells and resistances/vulnerabilities on eq, care should be taken, though
+there is a wiznet reminder.  These affects are copied straight across without
+any alteration, due to the multitude of different ways they can be done.  This
+means that, in the case of certain affects, primarily where they are "attached"
+to others (For example, old dead robes, where the resistances were part of the
+6 dam affect, or old snake of nineheads, where the haste was part of the 3 dam)
+there can be duplication (Fixing a stock old dead would result in a piece with
+12 dam, as it processes the 6 dam that it finds the item adds in total, then
+duplicates the affect with reses (which also has the 6 dam)) If there is
+duplication, the item should be remade with perms/reses/vulns added in the
+current appropriate manner (perm/apply, rather than set) 
+
+ Note should also be taken that the item will "move" to the first position in
+your inventory, if not already there (This is because it works by creating a
+new object, and copying the old affects across, before removing the old
+object).   
+
+ Thanks to Naradas for his recode of qenchant, and to the writer of do_clone,
+from both of which code was used.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

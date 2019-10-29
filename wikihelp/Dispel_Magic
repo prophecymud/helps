@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Dispel_Magic
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'dispel magic' <character>
+
+ This spell remove magical effects from the target.  It has less of a chance of
+working than Cancellation, and is considered an attack spell. Unfortunately,
+this spell does not discriminate between harmful and benign spells. 
+
+ The chance of dispelling is based on the level of the spell. Permanent spells
+(such as mobile sanctuary) are much harder to remove.  Not all spells may be
+dispelled; notable examples are poison and plague.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

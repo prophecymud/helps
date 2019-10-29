@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist8
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+All objects   Modifies stats or hit/dam and such things. 
+
+   1 strength		  2 dex   3 intelligence	 4 wisdom   5
+constitution	     6 sex   7 class		    8 level *woohoo*   9 age   
+	      12 mana	13 hp		       14 move	 15 gold	       
+16 experience	17 ac		       18 hit roll   19 dam roll	    20
+saves	21 save vs rod	       22 save vs petrification   23 save vs breath    
+ 24 save vs spell 
+
+   Command: set obj <obj> aff <number> <amount>     Example: set obj holy aff
+18 4	 A Holy Avenger with +3 hitroll
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

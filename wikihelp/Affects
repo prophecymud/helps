@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Affects
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * affects
+
+ This command is used to show all the spells affecting your character. At low
+levels, only the spell name will be displayed, at higher levels the effects and
+duration of the spell will also be shown.  Spell effects are no longer shown on
+score (this can be changed by using 'show' command).
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,29 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Punishment
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The following are the types of punishment that can be dealt out with punish: 
+
+ nochannel:
+	 Cannot use any public conversation channels, including pray 
+ nonote:
+	 Cannot post to any kind of board, not just notes, (e.g. qnotes and
+ideas too) 
+ noemote:
+	 Cannot use the emote or pmote commands, or any socials 
+ notell:
+	 Cannot send tells 
+ notitle:
+	 Cannot use the title command (note that the title will also be set to
+a default "safe" (clean) value when this punishment is used) 
+ noquest:
+	 Cannot take part in quests (including Emily quests, and scrimmages) 
+ freeze:
+	 Cannot use any command (including quit, so will probably have to go
+linkdead) 
+ deny:
+	 Cannot log in as that character
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

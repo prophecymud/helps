@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist1
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Weapons   V0 is weapon type.   0 exotic     1 sword   2 dagger	   3
+spear/staff   4 mace/club  5 axe   6 flail	7 whip	 8 polearm 
+
+   Command: set obj <obj> v0 <number>	Example: set obj holy v0 2   The Holy
+Avenger is now a dagger. 
+
+ You can only use these numbers for weapons..or else you get like an unknown
+for weapon type.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

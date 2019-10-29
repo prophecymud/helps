@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Portal
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'portal' <target>
+
+ The portal spell is similar to gate, but creates a lasting one-way portal to
+the target creature, instead of transporting the caster.  Portals are entered
+using the 'enter' command as in 'enter portal'.  Portals cannot be made to
+certain destinations.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

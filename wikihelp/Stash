@@ -1,0 +1,26 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Stash
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The stash is a personal storage area available only to members of a clan. It is
+a place where your character can store limitless amount of items with no fear
+for their destruction or general safety. For characters that were once in a
+clan, but no longer, they can access their stash to get things out only (no
+putting more things in) at the healer in Sendar. Stashed items are not visible
+to the locate object spell. 
+
+ For players used to the old locker system, the stash system is virtually
+identical, but: * You can recover stashed items easily if you leave your clan
+ * There are no "special" locker objects (making things easier for builders and
+immortals, plus no issues if you have a clanmate called, say, "Netheran" and
+you try to put objects into your "net" in your locker room!)
+ * Stashed items are stored as part of the player (rather than independently)
+so are easier to restore, harder to "get lost", and less memory intensive for
+the server, resulting in better performance and playability for all
+
+ Lockers will be gradually phased out -- this process will be announced through
+changes on live.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

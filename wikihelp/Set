@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Set
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * set mob   <mobile> <field> <value>
+ * set obj   <object> <field> <value>
+ * set room  <number> <field> <value>
+ * set skill <char>   <name>  <percentage>
+ * set skill <char>   all     <percentage>
+
+ The set command is used to change the numerical values of the various data
+structures. Type set <type> without an argument to see a listing of options.
+Use string to change the strings on an object or mobile. (see also stat)
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist7
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+All objects   Determines where you wear the object. 
+
+      1 take		2 finger      4 neck		8 torso     16 head    
+      32 legs	  64 feet	   128 hands	256 arms	  512 shield  
+1024 body	  2048 waist   4096 wrist	 8192 wield   16384 hold       
+65536 float 
+
+   Command: set obj <obj> wear <number>   Example: set obj holy wear 8193   You
+wield the Holy Avenger.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

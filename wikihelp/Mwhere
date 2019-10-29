@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Mwhere
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`7Syntax: `` 
+
+ * mwhere
+ * mwhere <name>
+ * mwhere <name> area
+ * mwhere all area
+
+ Mwhere shows you the location of all mobiles/characters with a particular
+name. Without any arguments supplied, it shows the location of all players.
+Appending 'area' to the command confines the search to the area you are
+currently in.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

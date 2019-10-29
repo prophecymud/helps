@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Reply
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * reply <message>
+
+ Reply sends a message to the last player who sent you a Tell.	Reply will work
+even if you can't see the player, and without revealing their identity.  This
+is handy for talking to invisible or switched immortal players. 
+
+ See also Gtell and Say.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

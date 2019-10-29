@@ -1,0 +1,55 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Hostel
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Using a hostel gives you the ability to purchase a room that you can call your
+own. These are often used to bot in, or to store items. Anything you leave on
+the floor of your hostel room will be saved with the room (so it will still be
+in the room after a reboot or crash). The main commands for a hostel are as
+follows: 
+
+ purchase buy room:
+	 Buys a room at the hostel if you do not already have one. The current
+cost for a room is 10000 gold. This gives you a room, a key, and 24 hours of
+rent time. Once the room is yours, it is yours for as long as you keep paying
+rent upon it. 
+
+ purchase list:
+	 (Note to Anheg: Find out what this does) 
+
+ purchase rent <number of hours>:
+	 Allows you to buy additional rent time on your room. You can only use
+this command once you own a room. Each room starts out with 24 hours of rent
+time and this time is ONLY counted down while you are logged on. Once that 24
+hours starts to get low (you can see rent time in your score command) you may
+purchase additional hours for 500 gold a piece using this command. You must
+keep up on your rent in order to keep your room. If you do not keep up on your
+rent the room is condemned and your key is taken away. If you let your rent run
+out, then decide you want a room again you must use the purchase buy command
+and purchase a whole new room.	
+
+ purchase sell price:
+	 Evaluates the amount of gold you would get from selling your room.
+Note that this will be quite less than what was paid for it. 
+
+ purchase sell room :
+	 Actually sells your room. 
+
+ rname <new name>:
+	 This command sets the name (what is seen in the where command) of your
+room. This is free of charge, but do remember to rsave after making the change 
+
+ rdesc:
+	 This will put you into an editor for your room description. Don't
+forget to rsave. 
+
+ rsave:
+	 Saves any changes made to your room. 
+
+ goroom <owner>:
+	 Transports you from the Innkeeper to the section of hallway outside
+the person's room, if they have one
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

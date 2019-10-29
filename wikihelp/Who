@@ -1,0 +1,26 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Who
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * who
+ * who <race>
+ * who <clan name>
+ * who pk
+
+ Who shows the people currently in the game. Who without any arguments shows
+all of the (visible) people currently playing. With arguments, Who can show
+players of certain races, clans, or other defining characteristics. 
+
+ For example: 
+
+ * who Sendar	   lists all Sendars playing
+ * who immortal    lists all immortals playing
+ * who pk	   lists all visible PK characters playing
+
+ Races may be abbreviated.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

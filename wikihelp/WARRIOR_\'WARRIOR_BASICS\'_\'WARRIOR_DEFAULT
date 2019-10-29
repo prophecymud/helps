@@ -1,0 +1,26 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : WARRIOR_'WARRIOR_BASICS'_'WARRIOR_DEFAULT
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Warriors live for combat and the thrill of battle. They are the best fighters
+of all the classes, but lack the subtle skills of spies and the magical talents
+of sorcerers and priests.  Warriors are best for those who don't mind taking
+the direct approach, even when another method might be called for. 
+
+ Warriors begin with skill in the sword, and gain a second attack in combat.
+Other weapon skills may be purchased cheaply, or gained in the default skill
+package, which includes the following: 
+
+ skills: 
+
+ * weaponsmaster   this group provides knowledge of all weapon types
+ * shield block    the art of parrying with a shield
+ * bash 	   a forceful rush with the body, designed to flatten your foes
+ * enhanced damage this skill multiplies your damage in battle
+ * parry	   the art of parrying with weapons
+ * rescue	   allows you to take the blows aimed for a companion
+ * third attack    allows the skilled warrior to land three blows in one round
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

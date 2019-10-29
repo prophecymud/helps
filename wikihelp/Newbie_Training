@@ -1,0 +1,44 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Newbie_Training
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`` Two (important) ways of enhancing your character are practicing and
+training. This helpfile will give a brief explanation of what these are. `` 
+`6-`^- `&Training``:
+ 
+: `` `` 
+
+ Training is a way of enhancing your attributes/statistics or your
+mana/hitpoints or movement. After you create a character, you get three
+training points (trains) and you will get one more each time you level. Though
+you can choose to enhance your statistics, such as strength or dexterity using
+your trains, equipment is usually sufficient to reach the maximum limits of
+those so you can use your trains for something a little more beneficial. Most
+people choose to use their trains on training hitpoints (hp), which means that
+they get an extra 10 hitpoints per level. A trainer can be found `&3`` south,
+`&3`` east, `&1`` south from the recall location. `` 
+`6-`^- `&Practicing``:
+ 
+: `` `` 
+
+ Practicing is also quite important as you can increase your ability in skills
+and spells with it, up to a maximum of 75%. You can check the current
+percentage of your skills and spells by typing practice. The higher the number
+the lesser the chance of you failing at the skill or spell. To practice you
+will need practice points. How many you will have is dependant on your wisdom
+statistic. When you practice, you should at all times have your intelligence at
+maximum to gain the most from each practice point. A good place to practice (or
+even train for that matter) can be found `&2`` south, `&16`` east, `&2`` south
+and `&1`` east from the recall point. `` 
+`6-`^- `&Advanced``:
+ 
+: `` `` 
+
+ Some people choose not to use practices to become better at skills but instead
+they convert 10 practice points into one train to train hitpoints or mana. This
+is done with the "`&gain convert``" command, at the location of mentioned in
+the practice section of this helpfile.	``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

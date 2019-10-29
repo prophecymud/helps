@@ -1,0 +1,33 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Auction
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+auction:
+	shows stats and current bid on the item currently being auctioned 
+
+auction <item> <min_bid>:
+	puts the <item> up for auction as long as it's in your inventory. 
+
+auction bid <amount>:
+	bids the <amount> of gold on current item 
+
+auction off/on:
+	this turns off the auction channel, typing it again will turn it back
+on 
+
+auction list:
+	lists all the items up for auction, and their minimum bids 
+
+auction remove <item>:
+	removes the item from the auction list. You can only remove items that
+are yours. Also once an item is being bid on (first in list), you cannot remove
+it. 
+
+ There is no longer an auction stop command available to mortals. An item that
+is being bid on can only be removed by an immortal.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

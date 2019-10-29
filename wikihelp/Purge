@@ -1,0 +1,20 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Purge
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * purge
+ * purge <character>
+
+ Purge is used to clean up the world.  Purge with no arguments removes all the
+NPC's and objects in the current room.	Purge with an argument purges one
+character from anywhere in the world. 
+
+ Purge will not get rid of PC's, or objects or mobiles with a NOPURGE flag set
+(i.e. the pit, the fountain, shopkeepers, Toth).  Mobiles may be purged if they
+are called directly by name.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

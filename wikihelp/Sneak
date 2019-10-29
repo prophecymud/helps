@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Sneak
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * sneak
+
+ Sneak lets a character move unseen from room to room, and also to not be
+noticed while stationary. This is at the cost of more movement points when
+actually moving. It can be stopped with the visible command, or by attacking
+something. Players and mobiles affected by the detect hidden spell will be able
+to see a stationary character, but will not see them moving.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

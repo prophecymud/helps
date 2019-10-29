@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Poofout
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax: `` 
+
+ * poofout <message>
+
+ The standard messages when leaving by goto is 'leaves in a swirling mist'. 
+You can replace this message with a message of your own choosing using the
+poofout command.  This messages must include your name somewhere in the string.
+
+
+ Poofout only shows to characters who can see you.  To change the message seen
+when arriving, use Poofin.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

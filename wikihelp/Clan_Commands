@@ -1,0 +1,61 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Clan_Commands
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The command 'clan' has many functions.	Here is a list of most of them.  To see
+more information on any individual usage, type it with no further arguments,
+e.g. 'clan reject.'  Most can only be used on others in your clan. 
+
+ `8Syntax`` 
+
+`&clan accept <player>:
+	``accepts a player into the Clan 
+`&clan bank balance:
+	``shows the current amount of gold in the Clan Bank 
+`&clan bank deposit <amount>:
+	``deposits a specified amount of gold to the Clan Bank 
+`&clan bank withdraw <amount>:
+	``withdraws a specified amount of gold from the Clan Bank 
+`&clan donate <item>:
+	``donates an item to the Clan 
+`&clan eqlist:
+	``lists the WWP for the Clan 
+`&clan finger <player>:
+	``gives you Clan-related information of a member 
+`&clan grant <player> <command>:
+	``grants or takes away a Clan command to a member 
+`&clan list:
+	``gives a list of all clans 
+`&clan load <player>:
+	``loads a piece of WWP onto a member 
+`&clan major:
+	``used for talking with the Clan (the following can also be used: neut,
+westt, eastt, shep, cult) 
+`&clan members <clan name>:
+	``shows the current members in the subclan given 
+`&clan petitions:
+	``lists the currently online people who have applied to the Clan 
+`&clan promote <player> <rank>:
+	``promotes or demotes a member in the Clan 
+`&clan punish:
+	``used to issue nochannels 
+`&clan recall:
+	``used to recall to your Clan hall 
+`&clan reject <player>:
+	``rejects an application to your Clan 
+`&clan remove <player>:
+	``removes a current Clanmember 
+`&clan stat:
+	``shows stats of clan members currently logged 
+`&clan switch <player> <subclan>:
+	``used to move people between subclans 
+`&clan tell:
+	``used to talk with the Clan 
+`&clan title <player> <title>:
+	``change the clan title of a member 
+`&clan who:
+	``shows the currently online members
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

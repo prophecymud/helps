@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Pmote
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * pmote <action>
+
+ Pmote, similar to Emote, is used to express actions and emotions, but will
+substitute a target's name for "you" and "your".  That is, if Alice sends the
+command  pmote bonks Bob. then Bob will see  Alice bonks you. and everyone else
+in the room will see  Alice bonks Bob. 
+
+ See also Emote and Pose.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

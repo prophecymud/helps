@@ -1,0 +1,41 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Rp_Channel
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The RP or Roleplay channel allows players to roleplay in public, offering
+public says, socials, emotes and narrative. This provides a means for more
+people to join in the RP which could otherwise go unnoticed by others and
+making it a more social affair. 
+
+ `8Syntax:`` 
+
+ `` 
+rp It's a sunny day:
+	`&Output`8:`` `#[`3RP`#]`` Fieron says '`^It's a sunny day``'  
+`&Equivalent`8:`` say `` 
+
+rp /mutter But I've got a headache:
+	`&Output`8:`` `#[`3RP`#]`` Fieron mutters '`^But I've got a headache``'
+	`&Note`8:`` remember to use infinitive of the verb - it auto adds an
+'s' for you `` 
+
+rp *squints at the sky.:
+	`&Output`8: `#[`3RP`#]`` Fieron squints at the sky.    
+`&Equivalent`8:`` emote `` 
+
+rp -smile:
+	`&Output`8:`` `#[`3RP`#]`` Fieron smiles happily.      
+`&Equivalent`8:`` social `` 
+
+rp narr Then it starts raining.:
+	`&Output`8:`` `#[`3RP`#]`` (Player) Then it starts raining. `` 
+
+ Please keep in mind that regular channel rules apply for this channel and that
+you are not allowed to use this channel to respond to things said on ooc or to
+use a public social/emote on someone. Also, all conversations and actions on
+the roleplaying channel are logged and sent to the immortal staff for review
+and sometimes, frequent roleplayers will be rewarded with a small surprise. ``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

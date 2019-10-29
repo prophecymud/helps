@@ -1,0 +1,24 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Wiznet
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * wiznet 
+ * wiznet show
+ * wiznet status
+ * wiznet <field>
+
+ Wiznet is sort of an immortal news service to show important events to the
+wiznetted immortal.  Wiznet by itself turns wiznet on and off,	wiznet show
+lists all settable flags (they are not detailed here),	wiznet status shows
+your current wiznet settings, and wiznet <field> toggles a field on and off. 
+The events should be self-explanatory.	If they are not, fiddle with them for a
+while.	 
+
+ Wiznet secure is not for general usage as it shows almost all commands entered
+by all players. You should have a very very good reason to have this on.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,25 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : MCCP
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+MCCP (MUD Client Compression Protocol) is a protocol that allows compression of
+data between the server and users. 
+
+ Using MCCP rewards you with a small experience point and aquest point bonus. 
+
+ The "compress" command toggles MCCP for your connection. Some clients natively
+support MCCP (e.g. zMUD, MUSHClient, TinTin++), whereas others (e.g. GMUD, JMC)
+do not, however this can be solved by use of a proxy such as MCClient
+(available from the mud.lu downloads section. 
+
+ If you do not have MCCP support, attempting to enable compression will result
+in "garbage characters" being displayed. Simply disable compression again with
+the "compress" command to resume normal service, though without MCCP and the
+bonuses. 
+
+ If people have MCClient or other proxy issues, Anheg will probably write you a
+proxy depending on what system you use and how nice you are.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

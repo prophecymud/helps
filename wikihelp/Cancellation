@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Cancellation
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'cancellation' <character>
+
+ This spell removes magical effects from the target. Cancellation can only be
+used on allies, but is much more effective than Dispel Magic and does not
+provoke attack.  This spell does not discriminate between benign and harmful
+spells.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

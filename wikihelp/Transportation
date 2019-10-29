@@ -1,0 +1,20 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Transportation
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The transportation group is used for travel, whether by flight, magical
+teleportation, or walking through walls.  All classes may learn these spells,
+which are among the most useful in the game. 
+
+ * fly		   allows the target to fly over nearly all obstacles
+ * gate 	   transports the caster to the target
+ * nexus	   forms a two-way portal to a far off destination
+ * pass door	   allows the caster to walk through walls
+ * portal	   creates a one-way portal to a destination
+ * summon	   transports the target to the caster
+ * teleport	   sends the target to a random location
+ * word of recall  transports the caster to safety in Sendar
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Reboot
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * reboot
+
+ Reboot will shutdown the server. When the 'startup' (~/live/bin/startup)
+script is used to control the server, a delay of fifteen seconds will ensue (to
+allow old connections to die), and then the script will cause the server to
+restart.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,86 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Old_Aquest_Equipment
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Here are the stats of the old-style aquest equipment 
+
+ `7(`$Q`4uest`7) the `1S`!ce`&p`!te`1r`7 of `6E`^te`&r`^na`6l `&L`7i`&g`7h`&t``
+
+
+  Object 'sceptre eternal light' is type light.
+  Extra flags: magic nodrop no_locate burn_proof.
+  Weight is 0, value is 0, level is 0.
+  Wear location is light.
+  Affects saves by -10.
+  Affects hit roll by 4.
+  Affects mana by 200.
+  Affects strength by 2.
+  Affects dexterity by 2.
+  Affects intelligence by 2.
+  Affects wisdom by 2.
+  Affects constitution by 2.
+  Affects armor class by -15.
+
+ `7(`$Q`4uest`7)`&(`#Sh`3im`&me`3ri`#ng`&)`7 an `3em`&br`7oi`&der`3ed`7
+`8c`#l`&o`#a`8k`` 
+
+  Object 'shimmering gold embroidered cloak' is type jewelry.
+  Extra flags: magic nodrop no_locate burn_proof.
+  Weight is 0, value is 0, level is 0.
+  Wear location is torso.
+  Affects armor class by -10.
+  Affects damage roll by 5.
+  Affects hit roll by 5.
+  Affects armor class by -15.
+  Affects moves by 300.
+  Affects hp by 300.
+  Affects mana by 150.
+
+ `7(`$Q`4uest`7) `8Ga`&u`7n`$t`7l`&e`8ts`7 of `$D`4i`&vi`4n`$e
+`8P`&o`$w`&e`8r`` 
+
+  Object 'gauntlets divine strength' is type armor.
+  Extra flags: magic nodrop no_locate burn_proof.
+  Weight is 0, value is 0, level is 0.
+  Wear location is hands.
+  Armor class is 0 pierce, 0 bash, 0 slash, and 0 vs. magic.
+  Affects damage roll by 6.
+  Affects hit roll by 6.
+  Affects armor class by -20.
+  Affects dexterity by 4.
+  Affects strength by 8.
+
+ `7(`$Q`4uest`7)`&(`6F`^lo`&at`^in`6g`&)`7 an `2e`@me`&r`@al`2d`7
+`^s`&p`7h`&er`^e`` 
+
+  Object 'floating sphere emerald' is type armor.
+  Extra flags: magic nodrop no_locate burn_proof.
+  Weight is 0, value is 0, level is 0.
+  Wear location is float.
+  Armor class is 0 pierce, 0 bash, 0 slash, and 0 vs. magic.
+  Affects saves by -5.
+  Affects damage roll by 5.
+  Affects hit roll by 5.
+  Affects armor class by -20.
+  Affects hp by 75.
+  Affects detect_invis by 100.
+  Affects detect_hidden by 100.
+
+ `7(`$Q`4uest`7) the `8Ul`&t`7im`&a`8te`7 `2W`@e`&ap`@o`2n`7 of
+`!De`1s`&t`8ruc`&t`1i`!on`` 
+
+  Object 'ultimate weapon destruction' is type weapon.
+  Extra flags: magic nodrop no_locate saveover burn_proof.
+  Weight is 2, value is 0, level is <yours at time of purchase>.
+  Wear location is wield.
+  Weapon type is <as chosen>
+  Damage is 7d11 (average 42).
+  Weapons flags: <those chosen>
+  Affects damage roll by 8.
+  Affects hit roll by 8.
+  Affects hp by 150.
+  Affects strength by 4.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

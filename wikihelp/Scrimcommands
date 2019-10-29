@@ -1,0 +1,32 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Scrimcommands
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+scrimmage join:
+	 Type this if you want to take part of a scrimmage.  Remember that a
+scrimmage can be within certain level ranges.  Type 'scrimmage data' to see the
+lvl-range of the war. This also transfers you to healer in Sendar. 
+
+ scrimmage leave :
+	 Type this before a scrimmage is launched if you want out of the
+scrimmage. 
+
+ scrimmage info:
+	 Gives you information about current war.  When a team war is launched,
+it shows team assignments as the allocation for a team war is random. 
+
+ scrimmage data:
+	 This shows you will see if there's a reward to winning the quest. The
+rewards can either be in gold, aqpts or scrimpts.  If the immortal who creates
+the war feels like it other rewards might be given out. 
+
+ team <message>:
+	 In team wars you can type this to communicate with your team to
+organize it. Thus replacing the need to group. 
+
+ Type help scrimmage for general scrimmage information or help whatisscrim for
+the definition of scrimmages.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

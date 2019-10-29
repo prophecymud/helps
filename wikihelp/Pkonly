@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Pkonly
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax: `` 
+
+ * pkonly <item>
+
+ PKonly is a command available to Player-Killers, which makes their equipment
+useable only by other Player-Killers.  You may not transfer PK-only equipment
+to non-PKset characters.  However, non-PKonly equipment may be given to a PK
+player.  If a non-pker is in possession of eq with the pk_only flag, that 
+character will be forced to PKset.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

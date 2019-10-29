@@ -1,0 +1,51 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Imm_Scrimmage
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * scrimmage 'abort'/'assign'/'award'/'info'/'launch'/'levels'/'start'/'teams'
+
+'scrimmage abort':
+	Aborts a started or launched war. 
+
+'scrimmage assign <charname> <team>'   :
+	Assigns a player to a team, only available in TEAM-assign-wars.        
+Teams are : White, Black, Red or Green in normal teams team allocation is
+random. 
+
+'scrimmage award <gold/aqpts> <number>' :
+	Places a reward on the war, default is nothing, this must be done
+before the war is launched. * MIN-GOLD : 1k   MAX-GOLD:  20k
+ * MIN-AQPTS: 25   MAX-AQPTS: 250
+
+'scrimmage info':
+	Shows information on the war, players scrimmage reward etc. 
+
+'scrimmage launch'   :
+	This is what you type when you want the war to launch, killing begins
+right away when you type this. 
+
+'scrimmage levels <minlvl> <maxlvl>':
+	If you want the war to be fought within certain levels, use this
+command. Default is 50-91. 
+
+'scrimmage start ffa'  :
+	Creates a Free For All - war. 
+
+'scrimmage start team <number of teams>':
+	Creates a TEAM-war (2-4 teams) default is 2 teams. In this war teams
+are random. 
+
+'scrimmage start assign <number of teams>' :
+	Creates a TEAM-war where you can assign people to teams (2-4 teams). 
+
+'scrimmage teams <number of teams>':
+	You can change the number of teams after war have been started (not
+launched) using this command. 
+
+ If you have no idea on what a scrimmage is type 'help whatisscrim'
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

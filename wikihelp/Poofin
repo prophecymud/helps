@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Poofin
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax: `` 
+
+ * poofin  <message>
+
+ The standard messages when arriving by goto is 'arrives in a swirling mist'. 
+You can replace this message with a message of your own choosing using the
+poofin commands.  This messages must include your name somewhere in the string.
+
+
+ Poofin only shows to characters who can see you.  To change the message seen
+when departing, use Poofout.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,39 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Newbie_Getting_Around
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Movement is quite important. There are several ways to move around, including a
+number of spells that let you go somewhere really fast, further described in
+the transportation spell group helpfile. At first though, the only commands you
+need to know about are the directions, recall and some additional commands. 
+
+ `` Firstly, there are the directions. Most rooms have one or more exits,
+either north, south, east, west, up or down. Moving in such a direction is done
+by typing the direction. Sometimes, there is a door in your way, or another
+obstacle, which can be opened by typing open and the direction of the obstacle.
+(for instance: open north) `` 
+
+ The recall command is available to you until level 10 and will transport you
+back to the safety of the city of Sendar. It does not work in all areas, and
+once you hit level 11, you are not able to use it anymore. The word of recall
+spell which you will get at some point has the same effect. `` 
+
+ Sometimes you will encounter a portal or gateway of some sort. You can enter
+those by typing just that. Enter portal will make you enter a certain portal
+(if it has a different name, you should obviously use that name instead of
+portal) and take you to the location specified. If you wish to see where a
+portal leads, you can look into it first (look in portal). `` 
+
+ You may also use the gate spell to be gate to a player or mob if you have
+gained the spell and it cast properly. `` 
+
+ There is also the teleport spell that, when cast correctly, will teleport you
+into a random room on the mud. `` 
+
+ This should at least allow you to move around while you get started. If you
+have questions then feel free to ask someone. There is also a good selection of
+helpfiles that will assist you in finding more information on moving around. ``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

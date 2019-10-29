@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Finger
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * finger <victim>
+ * finger real <name>
+ * finger email <address>
+
+ Finger allows the player to obtain information on players, whether online or
+offline. The "finger real" and "finger email" allow you to set your real name
+and email address as seen by other players fingering you. It will also, if
+fingering a mortal, allow you to see when they were last online.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

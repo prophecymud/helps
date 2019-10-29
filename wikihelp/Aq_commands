@@ -1,0 +1,80 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Aq_Commands
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Prophecy has its own unique Automatic Questing System. The following is a
+summary of the commands that that you need to know to use the system. All
+commands below start with "aquest" such as "aquest start" 
+
+ `8Syntax:`` 
+
+ start:
+	 Needs to be typed in the same room as Floyd. Floyd will send you to
+seek out a shopkeeper or a healer who is need of assistance from a brave
+adventurer such as yourself 
+
+ request:
+	 Once you have found the shopkeeper or healer that you seek, this
+command will cause them to set you a task that you must complete. There are 4
+forms that such a task can take:	: Delivery - You will be given a letter
+which must be delivered to the stated person. Give the letter to the recipient
+and then return to the person who sent you.	 : Mob kill - Slay the mob you
+are sent for and return in one piece!	  : Retrieve - Retrieve the item and
+bring it back.	     : Retrieve2 - Same as above, only the item you are sent to
+retrieve is an existing item in the game, for example, basilisk claws. 
+
+ complete:
+	 Once you have done what your aquest giver sent you to do, return to
+them, type 'aquest complete' and they will see that you are well rewarded for
+your troubles. Bear in mind that your rewards will be greater if you do not use
+certain transportation spells whilst on your aquest, and if you are using MCCP.
+
+
+ info:
+	 If you forget what it is you are supposed to be doing, this command
+will refresh your memory. 
+
+ points:
+	 Shows you how many autoquest points (aqps) you have in total. The same
+information can also be seen when you type 'score'. 
+
+ time:
+	 Shows you how much time you have left to complete your aquest, or how
+much longer you have to wait until you can start another one. 
+
+ deny:
+	 If your aquest is too difficult, this command will let you abandon it.
+
+
+ list:
+	 Floyd will show you a list of all the fabulous things you can spend
+your hard-earned aquest points (aqps or aqpts) on. 
+
+ buy:
+	 Use this command to buy the tangible items that Floyd sells, for
+example 'aquest buy cloak' (see help aq_eq for more detailed information).  
+
+ sell:
+	 Lets you sell any unwanted aquest equipment you own back to Floyd for
+half the price that you paid for it. 
+
+ train:
+	 Allows you to spend your aquest points as if they were a train.
+However, hp, mana, and movement, cannot be increased in this way. 
+
+ practice:
+	 Allows you to spend your aquest points as if they were a practice. 
+
+ gain:
+	 Allows you to spend your aquest points to gain skills as if the points
+were trains. 
+
+ unflag:
+	 Will let you remove one of the following flags from a piece of
+equipment that you own: 'glowing', 'humming', 'evil', 'magical' or 'blessed'.
+For example, 'aquest unflag dagger evil' will remove the 'evil' flag from a
+dagger which you have in your inventory.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

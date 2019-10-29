@@ -1,0 +1,20 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Punish
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * punish list
+ * punish penalties
+ * punish <player> <punishment> <#> days|hours|minutes
+ * punish remove <player> <punishment>
+ * punish previous <player>
+
+ The punish command applies a punishment to a player. A list of punishments can
+be obtained with the "penalties" subcommand. The previous punishments a player
+has received can be viewed with "punish previous", and a list of all people
+currently with punishments can be viewed with "punish list".
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,12 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Linkdead
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+A player is referred to as "linkdead" if their character is in the game, but
+the player is not connected (e.g. sometime during play, the player's network
+connection has experienced a fault). A player who is linkdead, PK, but not VT,
+will not be able to be attacked by other PKers.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

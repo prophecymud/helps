@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Stick
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * stick <player>
+
+ This will open an OLC style interactive editor where you can type a note about
+the player.  Players with such notes stuck to them will be tagged with a
+[Sticky] flag on the who list.	To view or modify the note, use the same 'stick
+<player>' command.  This works with both online and offline players.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

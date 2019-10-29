@@ -1,0 +1,43 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : PRIEST_'PRIEST_BASICS'_'PRIEST_DEFAULT
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Priests are the most defensively orientated of all the classes.  Most of their
+spells focus on healing or defending the faithful, with their few combat spells
+being far less powerful than those of mages. However, priests are the best 
+class by far at healing magics, and they possess an impressive area of
+protective magics, as well as fair combat prowess. 
+
+ All priests begin with skill in the mace.  Other weapon or shield skills must
+be purchased, many at a very dear cost.  The default skill selection for 
+clerics is as follows: 
+
+ skills: 
+
+ flail: 	  The proper use of flails 
+
+ spell groups: 
+
+ attack:	  A selection of offensive magics 
+
+ creation:	  The making of physical objects, such as food and water 
+
+ curative:	  Spells that cure the sick and feeble of their ailments 
+
+ benedictions:	  Powerful magics that grant the blessings of the gods 
+
+ detection:	  Informational magics, such as detect magic and identify 
+
+ healing:	  Spells for treating wounds, from scratches to death blows 
+
+ maladictions:	  An assortment of curses 
+
+ protective:	  Defensive magics, including the powerful sanctuary spell 
+
+ transportation:  Spells for getting from here to there 
+
+ weather:	  Spells for conjuring and mastering the elements
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

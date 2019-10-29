@@ -1,0 +1,22 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Wear
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * wear   <object>
+ * wear   all
+
+ Wear will take an object from your inventory and start using it as equipment. 
+
+ Wear all will attempt to wear each item in your inventory. 
+
+ You may not be able to Wear an item if its alignment does not match yours, if
+it is too heavy for you, or if you are not experienced enough to use it
+properly. 
+
+ See also Remove.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

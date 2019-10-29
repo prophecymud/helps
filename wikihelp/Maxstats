@@ -1,0 +1,23 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Maxstats
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * Maxstats
+
+ Shows your maximum base and modified stats (permanent). Equipment and spells
+can change your current stats (see 'help stats') but the numbers listed in
+maxstat will not change and represent the highest they can ever be. 
+
+ `7-`#Str`7: `^19`7[`$23`7] `#Int`7: `^17`7[`$21`7] `#Wis`7: `^19`7[`$23`7]
+`#Dex`7: `^17`7[`$21`7] `#Con`7: `^20`7[`$24`7] 
+
+ The first number is the highest you can train that particular stat. The number
+in brackets is the highest it can be modified by spells or equipment. 
+Remember, gains when leveling are determined by stats, so keeping current stats
+maxed is probably a good idea.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,24 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Imm_Lastnames
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * string char <name> lastname '' <lastname>
+ * marry <char1> <char1> lastname
+
+ (The '' are two color ticks.  They must be put in and followed with a space or
+the last name will stick to the character name when they relog.) 
+
+ There are some rules and guidelines for granting a last name: * It should be
+an RP name of sorts (elaborated on in the next rule)
+ * It cannot violate the 'help name' file up to a point.  Two-part last names
+such as a profession or a dubbed title for strange/noble things done are
+acceptable.
+ * Unless the last name is a "Wedding gift", it will cost 1 RP point for a solo
+last name and 2 for a two-part or dubbed title last name.
+ * Please inform all RP Immortals when handing out Lastnames
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Energy_Channel
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'energy channel'
+
+ This spell raises the caster's maximum hit points while at the same time
+lowering their maximum mana. The maximum amount of hit points the caster may
+gain is determined by their current constitution. The effect of this spell is
+only temporary.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

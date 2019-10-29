@@ -1,0 +1,46 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Clanroomprices
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Clan rooms:
+	 15000 gold per room 
+ Personalized clan rooms:
+	 50000 gold apiece 
+ Healing rate increased:
+	 1000 gold per room per point 
+ Clan Items:
+	 30000 each (fountain, food storage ... ) 
+ Clan mobs:
+	 100000 gold per mob	 +50000 gold per banker 	 +100000 gold
+per healer 
+ Shops:
+	 +400000 gold (includes 10 slots for items) 
+
+ * The hall may have a maximum of one exit to the rest of the MUD, which will
+be a closed and Pass Door-proof door.
+ * Personalized rooms for the clanleader will be half of the price shown.
+ * There will be no room with a healing rate greater than 200.
+ * There will be a maximum of 10 portals leading out of the hall.
+ * Clan mobs may serve as guardians or decoration.  Botting mobs are not
+allowed.
+ * Purchase of a shopkeeper includes the cost for 10 items he will sell.
+ * Each shopkeeper will sell no more than 10 different items.
+ * Items available from a clan hall that can be taken by a player (thus, this
+excludes fixed furniture, and fountains) must be based on an item from an area
+that is not a clan hall. This "base item" will be detailed in an extra desc
+with keyword of "_basedon_", on the object. The item will not cost less, nor be
+better than, the "base item".
+ * Clan "spell-items" (potions, wands, etc.) will cost 30 gold a piece for
+PKclans, and 60 gold a piece for non-PK clans.
+ * Clan "spell-items" will have a maximum spell level of 70 for PK clans, and
+60 for nonPK.
+
+ These prices may change without notice or consent of the players so check
+these lists regularly if you are looking to add/make clan rooms. 
+
+ Please try to respect the work of previous hall builders when making changes
+to your clan hall.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

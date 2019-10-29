@@ -1,0 +1,46 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Last
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * last [#] -h[hostname] 
+ * last [#] [playername]
+
+ 'last' lets you to view the last logins from a particular player or from a
+particular hostname. It is intended to be used with a numeric first argument
+that limits the number of results displayed. 
+
+ `^`UBasic Usage:`` 
+
+  'last 10'   Shows the last 10 logins to the MUD. 
+
+  'last 10 naradas'   Shows the last 10 logins from the player called Naradas. 
+
+  'last 20 -hlocalhost.localdomain'   Shows the last 20 logins from the 
+hostname 'localhost.localdomain' 
+
+ 'last'   Will flood your screen with all recent logins until you run out of  
+buffer space :) 
+
+ `^`UAdvanced Usage:`` 
+
+ Wildcards can be used to match patterns in player names and, more usefully,
+hostnames. 
+
+ The `&%`` wildcard matches any sequence of 0 or more characters. 
+
+ The `&_`` wildcard matches a single character. 
+
+  'last 10 xa%'   Shows the last 10 logins from players whose names begin 'Xa*'
+
+
+  'last 20 -h%telia.com'   Shows the last 20 logins from hostnames ending with
+'telia.com' 
+
+  'last 10 -h%shawcable%'   Shows the last 10 logins from any hostname
+containing 'shawcable'
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

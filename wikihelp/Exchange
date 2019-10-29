@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Exchange
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * give <amount> silver <changer mobile>
+ * give <amount> gold <changer mobile>
+
+ Certain mobiles are flagged as "changers", supporting the exchange command to
+convert gold to silver, and the reverse.  The exchange rate is 100 silver to 1
+gold, although changers charge a 10% fee. As an example, Otho is found in the
+same room as Nathalie, in the Sendar Bank. For directions there, type help
+bank.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

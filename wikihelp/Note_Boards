@@ -1,0 +1,69 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Note_Boards
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The noteboards on Prophecy replace the bulletin boards and mail systems found
+on many other MUDs.  The following options are usable: 
+
+ Reading notes: 
+
+note list	:
+	 show all notes (unread notes are marked with an N) 
+note read	:
+	 either by number, or read next to read unread notes 
+note remove	:
+	 removes a note that you wrote or are the target of 
+note catchup	:
+	 marks all notes as read 
+
+ writing new notes: 
+
+note to     :
+	 sets the to line (playername, clanname, immortal, or all) 
+note subject:
+	 sets the subject for a new note 
+note +	    :
+	 adds a line to a new note (i.e. note + hi guys!) 
+note -	    :
+	 removes a line from a note in progress 
+note clear  :
+	 erase a note in progress 
+note show   :
+	 shows the note you are working on 
+note post   :
+	 posts a new note. This MUST be done to post a note. 
+
+ When you log in, you will be informed if there are unread notes waiting. Type
+note read to scroll through them one at a time. 
+
+ Other note directories exist.	They work the same as the note board, but
+replace 'note' with the appropriate command. So to read a new qnote, type
+'qnote read,' and to show your current idea, type 'idea show.' 
+
+Ideas Board   :
+	This board is strictly used for new ideas involving the mud and its
+environment. 
+Story Board:
+	This board is used to write rp stories about your characters and also a
+place to write stories during quests. 
+Qnote Board:
+	This board is a quest note board. This is used by Emily (help emily)
+and also by Quest Immortals to post about rules and upcoming Quests. 
+Trade Board:
+	This board is used for bounty's on other players heads. 
+News Board:
+	This board is Immortal only posting. However this is one of the biggest
+outlets Immortals use to inform Mortals of New code, New Rules, or other
+important information. 
+Changes Board:
+	Like News, this is Immortal posting only. This is quite like news,
+except for instead of posting 'new things' its posting to inform of things that
+have been changed. 
+
+ These boards are used the exact same way, for example idea read 5 will read
+idea #5.   The 'unread' command can be used to show your unread notes on all
+the note spools.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

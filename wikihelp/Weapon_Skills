@@ -1,0 +1,30 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Weapon_Skills
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds. If
+the character has the parry skill as well, he can parry incoming attacks. The
+chance of parrying is best if the character in question is skilled at  both his
+weapon and his opponent's. 
+
+ The weapon skills consist of the following: 
+
+ * Weaponsmaster:   skill group of all weapons listed below (save exotic)
+ * Axe: 	    the use of axes, ranging from hand to great (but not
+halberds)
+ * Dagger:	    the use of knives and daggers, and other stabbing weapons
+ * Flail:	    skill in ball-and-chain type weapons
+ * Mace:	    this skill includes clubs and hammers as well as maces
+ * Polearm:	    the use of pole weapons (except spears), including halberds
+ * Spear:	    this skill covers both spears and staves, but not polearms
+ * Sword:	    the warrior's standby, from rapier to claymore
+ * Whip:	    the use of whips, chains, and bullwhips
+ * Exotic:	    the use of strange magical weapons
+
+ The exotic skill cannot be purchased, and is dependent solely upon level.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

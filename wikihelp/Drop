@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Drop
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * drop <object>
+ * drop <amount> gold
+ * drop <amount> silver
+
+ Drops an object, or some coins, on the ground. Note that certain items are
+flagged "melt_drop", and will "melt" (be destroyed) if you drop them.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

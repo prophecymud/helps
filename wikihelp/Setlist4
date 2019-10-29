@@ -1,0 +1,20 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Setlist4
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Weapons   Extra flags on weapons. 
+
+	  1 glowing		      2 humming 	 4 dark 	       
+     8 lock	    16 evil			32 invis	 64 magic      
+	    128 nodrop	      256 bless 		  512 anti-good      
+1024 anti-neutral	    2048 anti-evil	 4096 noremove		    
+8192 inventory	    16384 nopurge		32768 rot-death      65536 vis
+and death	 524288 no-locate    4194304 sell-extract	16777216
+burn_proof   33554432 no_uncurse 
+
+   Command: set obj <obj> extra <number>   Example: set obj holy extra 16777219
+  (Glowing)(Humming) Holy Avenger that is burn_proof
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

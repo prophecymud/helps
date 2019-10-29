@@ -1,0 +1,22 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Stats
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * stats
+
+ Shows your base (permanent) and current (modified) statistics. This command,
+along with maxstats (see 'help maxstats'), can be very useful.	Since gains
+when leveling are determined by some statistics, keeping them at their maximum
+is usually a good idea.  The output will look like this: 
+
+ `7-`#Str`7: `^16`7[`$23`7] `#Int`7: `^12`7[`$14`7] `#Wis`7: `^15`7[`$21`7]
+`#Dex`7: `^13`7[`$19`7] `#Con`7: `^20`7[`$24`7] 
+
+ The first number is your base statistic (without equipment or spells affecting
+you), and the following number (in brackets) is the current value.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

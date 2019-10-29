@@ -1,0 +1,41 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Astring
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * astring "<current name of object>" "<new name>" "<new short description>"
+"<new long description>"
+
+ Example: 
+
+ astring "knife" "dagger holy" "A holy dagger" "A holy dagger lies here" 
+
+ The ASTRING command takes an existing piece of equipment and has a questmaster
+change its identity. To use ASTRING you must fit into these requirements- *
+Have 200 autoquest questpoints
+ * Be in the same room as a questmaster
+ * Have the item you want to restring
+
+ Definitions of the command parameters- 
+nameofobj:
+	the current name of the object you want restring 
+new name:
+	the new name you set for your object this name is used for commands
+like wield, hold, etc	    NOTE: do NOT use colors in the name field 
+short description:
+	this is the description that shows up in your inventory and when your
+wielding your weapon for example, this is the text that gets seen the most 
+long description:
+	this is the description that shows when the object is on the ground or
+when you look at it, a good policy for beginners is to make this identical to
+short desc. 
+
+ A good policy for beginners is to BE CAREFUL, there's no going back, make sure
+you understand this help file before trying. If you are still unclear ask
+another player for help. Also, you CAN use colors in all fields except the name
+field, just put them in like normal.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Train
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * train <str int wis dex con hp mana>
+
+ Train increases one of your attributes.  When you start the game, your
+character has standard attributes based on your class and several initial
+training sessions.  You can increase your attributes by using these sessions at
+a trainer (there are several in town). 
+
+ It takes one training session to improve an attribute by 1 or to increase mana
+or hp by 10.  You receive one session per level.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

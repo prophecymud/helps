@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Channels
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * channels
+
+ The channels command shows you a list of channels available to you, and
+indicates whether they are turned off or on. You can toggle the status of these
+channels by typing the command used to use that channel with no additional
+argument. For instance, to turn off the ooc channel, type 'ooc' with no
+arguments.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

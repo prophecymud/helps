@@ -1,0 +1,31 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Cast
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast <spell> [<target>]
+
+ As with skills, you have a percentage ability in all spells you can cast. The
+higher this percentage, the lower the chance of it failing outright. You may
+find it useful to practice it, to raise the chance from the initial 1%.  
+
+ Casting spells costs mana. The mana cost may decrease somewhat as your level
+increases, depending on the spell. 
+
+ The target may be optional, depending on the spell. Many spells which need
+targets will use an appropriate default target, especially during combat. 
+
+ If the spell name is more than one word, then you must quote the spell name,
+for example, "cast 'cure critic' frag". Quoting is optional for single-word
+spells. You can abbreviate the spell name (but be careful of ambiguity!) 
+
+ When you cast an offensive spell, the victim usually gets a saving throw. The
+effect of the spell is often reduced or eliminated if the victim makes the
+saving throw successfully. 
+
+ See also the help sections for individual spells.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

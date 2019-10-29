@@ -1,0 +1,19 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Backstab
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * backstab <target>
+ * bs <target>
+
+ Backstab is the favored attack of thieves, murderers, and other rogues.  It 
+can be used with any dam_noun, but is most effective with piercing weapons. The
+damage inflicted by a backstab is determined by the attacker's level, his
+weapon skill, his backstab skill, and the power of his opponent. 
+
+ Only thieves, spies and poisoners may learn the backstab skill.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

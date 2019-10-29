@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Consent
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * consent <victim>
+
+ This is the command where a player consents to marry another player (victim).
+Both players to be married must use the consent command prior to being married.
+Once this is done, an Immortal can use the Marry command.  This will flag the
+players with the [`&Wed``] flag.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

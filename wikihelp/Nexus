@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Nexus
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'nexus' <target>
+
+ This spell is virtually identical to portal (see 'help portal'), with the
+difference being that while portal creates a unidirectional gateway, a nexus 
+spell makes a two-sided gateway. It also lasts longer than the lower-powered
+portal spell.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

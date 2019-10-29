@@ -1,0 +1,18 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Pk_imm
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * pk forcenextweek
+
+ This should only be done if the MUD is down at the change of midnight on
+Sunday or if, for some reason, the PK ranking system does not give rewards and
+reset by 00:01 system time of what would then be Monday.  This will force the
+PK ranking code into end of the week manually. 
+
+ See also 'help prizepool' for more information on prizes awarded.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

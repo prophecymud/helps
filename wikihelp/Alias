@@ -1,0 +1,29 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Alias
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:``  
+
+ * alias
+ * alias <word>
+ * alias <word> <substitution>
+
+ The alias command allows limited shortening of command names.	At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+"alias" by itself lists your current aliases. "alias <word>" lists the alias
+with that name (if such exists), and "alias <word> <substitution>" produces a
+new alias. Aliases can be removed with the unalias command. You cannot alias
+either alias or unalias to a new command. 
+
+ Examples of use: 
+
+ * "alias gc get all corpse" -> typing "gc" will send the command "get all
+corpse"
+ * "alias rt cast 'ray of truth'" -> typing "rt murgo" will send the command
+"cast 'ray of truth' murgo"
+
+ Only the first word on the line will be substituted
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

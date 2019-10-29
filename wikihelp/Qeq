@@ -1,0 +1,42 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Qeq
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+* Use the blank vnums (vnum blank). Even if you're planning on just making a
+15hp onyx band.
+ * For "quality", you're looking at "stock + 40qp" (where it makes sense, for
+example, no need to factor in costs to change weapon damnoun)
+ * "Free" burnproof/anti modification
+ * No base > 30
+ * No reses
+ * No modifying level (unless in the "worse" direction)
+ * No modifying base (unless in the "worse" direction)
+ * Generally don't modify wear locations
+
+ Above all, be sensible. In general, nothing that can't be made by a mortal
+with enough qp (no avg 45s, no level 20 items with 30 base, no level 1 avg
+40s). Some of these can be considered flexible, at the discretion of the
+appropriate people, but basically, if you're making qeq unattended, stick to
+the above.  
+
+ A similar point applies to the amount of "qp used". If it's just a random
+prize in a trivia, requiring little more than luck to win, use less. If it's
+the culmination of a 10 day marathon quest, use more. 
+
+ Finally, try to make non-optimal qeq. Yes, make stuff people want to use,
+that's the whole point, but for example (even though it violates the above
+criteria), say you're making a melee quest helm, don't just grab a sally crown
+and dump lots of hitdam and ac onto it. That's absolutely ideal for any meleer.
+Try to be different, use something like a scarlet helm (ok, less optimal, but
+nice hpmana already, and lower level). Then people have a dilemma, do they use
+the good but not ideal helm, or start working on a helm better in the long term
+(which, relatively obviously, would be an enhanced sally crown), that if maxed,
+would be far better, but require them to build it up themselves over a period
+of time. This isn't that easy to stick to all the time, given current rules on
+base ac, and the lack of stat variety, but it's being worked on from a
+code/balance point of view, and by being sensible with creating qeq, you can
+help too.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

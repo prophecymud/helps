@@ -1,0 +1,28 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Color
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * color
+ * colour
+
+ Prophecy has full support for color in titles, prompts, items, and so on, if
+your terminal supports ANSI. Type 'color' to toggle color mode. You can get a
+helpful list of colors by typing 'color list.' Each color has an associated
+code - for instance, bright yellow has the code '#'. In order to use a color
+somewhere (in a title, for example), enter a back tick (which looks like this:
+` ) and the color code. Further text from that point is then colored. To return
+to 'normal' coloring, use two back ticks (like this: `` ). Please be sure to
+return to normal coloring at the end of your title. 
+
+ Example: To color code "Prophecy" with red, green and yellow, you could do
+something like this: `1P`2r`#o`1p`1h`#e`1c`2y`` Pasting this into the mud using
+say will show you what it looks like. Note the `` at the end returns you to
+'normal' color. 
+
+ Remember that it is illegal to use color on public channels.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

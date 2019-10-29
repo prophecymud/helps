@@ -1,0 +1,26 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Gain
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The gain command is used to learn new skills, once the proper trainer has been
+found. The following options can be used with gain: 
+
+ gain list:
+	 Lists all groups and skills that can be learned 
+
+ gain <skill or group>:
+	 Add a skill or skill group, at the listed cost 
+
+ gain convert :
+	 Turns 10 practices into one training session 
+
+ gain learn:
+	 Turns one training session into 10 practices 
+
+ Gain uses training sessions, not practices (except learn). (see 'help train').
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,16 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Remove_Curse
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` 
+
+ * cast 'remove curse' <character>
+ * cast 'remove curse' <object>
+
+ This spell removes a curse from a character, and might possibly uncurse a
+cursed object.	It may also be targeted on an object in the caster's inventory,
+in which case its chance of success is significantly higher.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

@@ -1,0 +1,30 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Questpts_rppts_scrimpts_bpts_aqpts_aqps
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`&QuestPts`` - Can be awarded by Immortals as prizes in a Quest.  These can
+either be used with `&QEnchant`` (see 'help qenchant') or they can	be
+given to another player (see 'help qpgive'). 
+
+ `&RpPts``    - These are awarded by Immortals as awards for outstanding
+Role-Playing or as prizes in an RP Quest.  As with QuestPts, they can be used
+in QEnchant, but they cannot be given to other players. 
+
+ `&BPts``     - Builder Points, you can use these to the same cost as RpPts on
+'help quest list' or for purchasing a builder house (help Builder_House). They
+can be obtained by work on the builder port, such as building an area. 
+
+ `&ScrimPts`` - These can be part of a Scrimmage award if the Immortal so
+decides it to be.  Can be used in QEnchant but not given away. 
+
+ `&AqPts``    - These are rewards from the Aquest Master for completing an
+autoquest.  They can also be part of a scrimmage award. AqPts are used at the
+Aquest Master to purchase things in 'aquest list' (which only works at the
+Aquest Master). 
+
+ `# *******  For the old Quest Point price list, type 'help quest list' 
+*******``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

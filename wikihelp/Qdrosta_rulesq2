@@ -1,0 +1,38 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Qdrosta_rulesq2
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`` `&2 `6-`^- `&Emote Tennis: ``			 `&- `7Person who draws
+the card plays the ball in either direction.		  `&- `7If you play the
+ball to the next person in line: ``					       
+	  `!emote plays the ball to <playername> ``			       
+     `&- `7If you play the ball back to the person who passed it to you: ``    
+		      `!emote blocks the ball. ``		     `6-`^-
+`&You're not allowed to block the ball when its passed back		       
+  to you. (someone blocks, sends it back to you, you block.) `` 	       
+	  `6-`^- `&You're not allowed to pass the ball after it has already    
+		  been passed twice before that, including serve, without      
+		a block in between. ``			  `6-`^- `&The first
+person to make a mistake, loses a beer token.			    If someone
+calls out that someone made a mistake, when they			did
+not, the game ends and that person loses a beer token. `` `&3 `8Black `6-`^-
+`&Take a token: ``	     `&- `7Choose another player. That player loses a
+beer token. (You don't get one) `` `` `&3 `!Red `6-`^- `&Lose a token:	
+
+	  `&- `7You lose a beer token. (drop it) `` `` `&4 `6-`^- `&More beer!:
+``	    `&- `7You get a beer token. `` `` `&5 `6-`^- `&Category: ``        
+ `&- `7Pick a category and mention something in that category. Then the next   
+	person does the same and so forth and so forth. If a player can't think
+	   of anyone, that person loses a beer token. ``		  
+`6Example:   Cars, Mercedes, BMW, Cadillac, etc, etc. `` `` `&6 `6-`^-
+`&Abolish a rule: ``	      `&- `7Abolish a player-made rule (displayed in
+the roomdesc) `` `` `&7 `6-`^- `&1, 2, 3, 4, 5, 6, juf!: ``	     `&- `7The
+person who draws the card, says a number. The next person in line says	       
+  the next number, except when it contains 7 or when it can be divided by 7,   
+	in which case the person says juf. Then, the next person can say a
+completely	      new number, for instance 518262.The game continues until
+someone messes up	     in which case that person loses a beer token. ``
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

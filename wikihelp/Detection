@@ -1,0 +1,24 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Detection
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+The detection spells have may uses, all related to gathering information. They
+can be used to see hidden objects, give information about treasure, or even
+scry out the true nature of your foe.  All classes except warriors can use 
+detection spells. 
+
+ * detect evil	   reveals the aura of evil monsters
+ * detect good	   similar to above, only for good monsters
+ * detect hidden   shows the whereabouts of hidden foes
+ * detect invis    allows the caster to see the unseeable
+ * detect magic    reveals magical auras to the caster
+ * detect poison   determines if food is safe to eat
+ * identify	   gives information about the nature of an object
+ * know alignment  determines the moral character of a monster or person
+ * locate object   finds a specific item
+ * locate person   finds a specific person
+ * true sight	   all of the detection spells in one
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~

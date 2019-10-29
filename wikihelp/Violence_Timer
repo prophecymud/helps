@@ -1,0 +1,17 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Violence_Timer
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+Once a character that is PKset leaves a safe area such as a healer, they can be
+attacked by another PK character.  Whenever one of the characters lands a blow,
+both players are given a time in which they can be attacked even if they run
+back to a safe area.  This time can be put into your prompt with either %t or
+%f (see help prompt) and is called the Violence Timer, usually abbreviated to
+"VT".  If you can avoid being hit by your opponent for the duration of your
+Violence Timer, then you can run back to safe and no longer be attacked. 
+However, each time a single blow is landed by either character, both timers are
+set back to their full duration.
+
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+~
