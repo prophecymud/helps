@@ -18,8 +18,5 @@ in "garbage characters" being displayed. Simply disable compression again with
 the "compress" command to resume normal service, though without MCCP and the
 bonuses. 
 
- If people have MCClient or other proxy issues, Anheg will probably write you a
-proxy depending on what system you use and how nice you are.
-
 `4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 ~
