@@ -13,4 +13,9 @@ They're rendered as-is in-game, which currently means hand-wrapping and copying 
 
 Eventually they'd ideally move to something [Sphinx](https://www.sphinx-doc.org/en/master/index.html)-like.
 
-Consistency is key when editing these files. For instance, all clans should move towards pwhelp <clanname> rather than help <clanname> for PK clans and help clan_<clanname> for player clans.
+Consistency is key when editing these files. 
+
+## Conventions
+
+* Player clan helpfiles should be named `clan_<clanname>` e.g. `clan_adventurers`
+* Core PK clan helpfiles should be named `<clanname>` e.g. `AoA` 
