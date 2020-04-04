@@ -1,0 +1,36 @@
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+`8Keywords``   : Map
+`8Categories`` : 
+`4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+`8Syntax:`` map
+
+Shows you a map of the surrounding rooms
+
+`8Key``:
+
+`#O``: The room you're currently in
+S: Shop
+P: Pet shop
+*: Any other room
+`5*``: Room with up exit
+`$*``: Room with down exit
+`!*``: Room with up and down exits
+
+|: North-south exit
+^: One-way north exit
+v: One-way south exit
+/: North-south exit collision
+-: East-west exit
+>: One-way east exit
+<: One-way south exit
+=: East-west exit collision
+,: North exit to another room
+': South exit to another room
+): East exit to another room
+(: West exit to another room
+
+`!Note``: Mortals have a restricted version of this command, Immortals and Builders
+have a more powerful version for debugging linking issues.
+
+The mortal version is equivalent to "map 3 -5 border world"
