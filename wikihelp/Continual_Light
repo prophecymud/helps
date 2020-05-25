@@ -6,11 +6,9 @@
 `8Syntax:`` 
 
  * cast 'continual light'
- * cast 'continual light' <object>
 
  This spell creates a ball of light, which you can hold as a light source. The
-ball of light will last indefinitely. It may also be used on an object to give
-it an enchanted glow.
+ball of light will last indefinitely.
 
 `4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 ~
