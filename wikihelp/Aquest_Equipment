@@ -9,7 +9,7 @@
 a full refund (except for any astring expenses) of aqpts at the aquest master
 (aquest sell <item name>). 
 
- `#New Aquest Equipment`3:`` 
+`#New Aquest Equipment`3:`` 
 
  To buy a piece of aquest equipment at a cost of 100 aqpts the syntax is: 
 
@@ -18,10 +18,9 @@ a full refund (except for any astring expenses) of aqpts at the aquest master
  Similarly, for aquest weapons use: 
 
  * `#aquest buy weapon <weapon type> '<weapon flags>'`` (help v4 for flags,
-e.g. "aquest buy weapon dagger 'flaming sharp vorpal'")
+    e.g. "aquest buy weapon dagger 'flaming sharp vorpal'")
 
- Weapons will be automatically given an appropriate noun depending on their
-type. 
+ Weapons will be automatically given an appropriate noun depending on their type. 
 
  You may then enchant the stats on the aquest equipment, at a cost of 200 aqpts
 per enchant, using the following syntax: 
@@ -37,19 +36,18 @@ list of the stats which can be enchanted, the amount added per enchant and the
 max they can be enchanted to: 
 
  `3Stat        Amount Per Enchant      Maximum Enchant``
-`#-----------------------------------------------------`` * ``ac	       
- `#-5			-30``
- * ``saves		`#-2		       -10``
- * ``hitroll		`# 1			10``
- * ``damroll		`# 1			10``
- * ``hp 		`#15		       120``
- * ``mana		`#15		       120``
- * ``move		`#15		       120``
- * ``strength		`# 2			 2``
- * ``intelligence	`# 2			 2``
- * ``wisdom		`# 2			 2``
- * ``dexterity		`# 2			 2``
- * ``constitution	`# 2			 2``
+`#-----------------------------------------------------``
+ * ``ac               `#-5                  	 -30``
+ * ``saves		          `#-2           		       -10``
+ * ``hitroll		        `# 1	                  		10``
+ * ``damroll		        `# 1			                  10``
+ * ``hp 		            `#15		                  120``
+ * ``mana		           `#15		                  120``
+ * ``move		           `#15		                  120``
+ * ``strength		       `# 2			                   2``
+ * ``intelligence	    `# 2			                   2``
+ * ``wisdom		         `# 2			                   2``
+ * ``dexterity		      `# 2			                    2``
+ * ``constitution	    `# 2			                   2``
 
 `4++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
-~
